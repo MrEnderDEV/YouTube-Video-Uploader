@@ -1,10 +1,4 @@
-# Stekeblad's Video Uploader
 
-## Project Closed
-
-Since 08:00, 3 april, 2022 UTC is this project closed. I will not be giving support or releasing new updates. The project will however remain here as archived meaning its still available for download and the wiki, existing issues or the source code can be consulted for help. It is also no longer possible to access YouTube without your own API key. [See this wiki page on how to use your own API key with Stekeblad's Video Uploder.](https://github.com/Stekeblad/Stekeblads-Video-Uploader/wiki/Personal-API-key)
-
----
 
 ## Easier bulk uploads to YouTube
 Helps people who upload a lot of videos to YouTube by automatically
@@ -23,9 +17,9 @@ video details for all videos one at a time on Youtube's upload page!
 ### Help
 There are a few videos further down about how to use the program and a
 detailed
-[wiki](https://github.com/Stekeblad/Stekeblads-Video-Uploader/wiki)<!-- @IGNORE PREVIOUS: link -->.
+[wiki](https://github.com/MrEnderDEV/YouTube-Video-Uploader/wiki)<!-- @IGNORE PREVIOUS: link -->.
 For other problems or question please look under
-[issues](https://github.com/Stekeblad/Stekeblads-Video-Uploader/issues)
+[issues](https://github.com/MrEnderDEV/YouTube-Video-Uploader/issues)
 and create one if no one already asked about the same thing.
 
 ### Privacy
@@ -36,15 +30,13 @@ privacy policy can be found here:
 
 ### Download
 Downloads can be found under "Releases" in the right sidebar
-[or by clicking here](https://github.com/Stekeblad/Stekeblads-Video-Uploader/releases)
+[or by clicking here](https://github.com/MrEnderDEV/YouTube-Video-Uploader/releases)
 
 Note that you need Java 8 to use Stekeblads Video Uploader.
 
 ### Images
 Images are taken from the 1.1 release, several things have changed since
 then.
-
-Thanks to [IsosceleTriangle](https://www.twitch.tv/isosceletriangle) for the Images!
 
 Main window, example of uploading videos:
 
@@ -59,7 +51,3 @@ Managing playlists:
 ![Image](https://drive.google.com/uc?export=download&id=12sL1dRCQKD3zm8Vx1lvotoq8U9zfPiN9)
 
 
-### Videos
-I have made a few short videos introducing the program and how to use it
-(The videos are pretty outdated but much is still the same):
-[Playlist](https://www.youtube.com/playlist?list=PLAA2832YwTI9mddiWDeZ_RDnIjaBa8dP-)
